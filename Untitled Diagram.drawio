@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T04:42:55.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.0" etag="2OaEbqXWvovXDgMmjvRv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T05:51:13.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="bQvOh5ZCI79Qn8pYPAnY" version="22.1.0" type="github">
   <diagram name="Page-1" id="FeeRtfmc0VxoOW3PCZrT">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="77F1bpXKJ-FvC8PuJBWh-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-2" value="mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="190" as="sourcePoint" />
+            <mxPoint x="209.96000000000004" y="179.98000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="77F1bpXKJ-FvC8PuJBWh-9" target="77F1bpXKJ-FvC8PuJBWh-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-9" value="set jumlaah lampu keadaan (mati,mati,nyala , mati , nyala)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="77F1bpXKJ-FvC8PuJBWh-18" target="77F1bpXKJ-FvC8PuJBWh-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-18" value="i = 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="77F1bpXKJ-FvC8PuJBWh-19" target="77F1bpXKJ-FvC8PuJBWh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-19" value="i adalaha bilangan kuadrat&lt;br&gt;n adalah bilangan ganjil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="77F1bpXKJ-FvC8PuJBWh-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="77F1bpXKJ-FvC8PuJBWh-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-22" value="ubah keadaan lampu&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-30" value="ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-31" value="tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="77F1bpXKJ-FvC8PuJBWh-33" target="77F1bpXKJ-FvC8PuJBWh-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-33" value="jika bilangan kuadrat lampu menyala" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="77F1bpXKJ-FvC8PuJBWh-35" target="77F1bpXKJ-FvC8PuJBWh-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-35" value="jika bilangan ganjil maka lampu mati" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="77F1bpXKJ-FvC8PuJBWh-36" target="77F1bpXKJ-FvC8PuJBWh-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-36" value="hasil output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-40" value="selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="77F1bpXKJ-FvC8PuJBWh-43" value="&lt;h1&gt;mulai&amp;nbsp;&lt;/h1&gt;&lt;div&gt;saya mulai angka i adalah 2&lt;/div&gt;&lt;div&gt;i adalah bilangan kuadrat&lt;/div&gt;&lt;div&gt;n adalah bilangan ganjil&lt;/div&gt;&lt;div&gt;set jumlah lampu keadaan mati , mati , mati nyala&amp;nbsp;&lt;/div&gt;&lt;div&gt;jika&amp;nbsp; lampu bilangan kuadrat maka akan mengahislkan lampu nyala&amp;nbsp;&lt;/div&gt;&lt;div&gt;jika&amp;nbsp; lampu bilangan ganjil maka output mati&amp;nbsp;&lt;/div&gt;&lt;div&gt;selesai&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="481" y="40" width="289" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
